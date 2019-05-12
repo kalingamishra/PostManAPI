@@ -92,6 +92,21 @@
 						}
 					},
 					"response": []
+				},
+				{
+					"name": "get delayed request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
 				}
 			]
 		}
